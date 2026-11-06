@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34470618/README.md)
-# Pradyumna.github.io.
-Personal Website
 # Pradyumna Pradhan — Academic Website
 
 A simple, responsive, single-page academic website built with plain HTML, CSS, and JavaScript. It uses a conventional academic layout with a profile introduction, biography, research, publications, awards, and contact information.
